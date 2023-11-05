@@ -6,16 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Hour 14.unity
+    path: Assets/Scenes/NRoy_Hour14/Hour 14.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/Beginning.unity
+    path: Assets/Scenes/NRoy_Hour14/Beginning.unity
     guid: cfdb27b2c9772f54ca85f3592821d196
   - enabled: 0
     path: Assets/Scenes/Forest.unity
     guid: f201a7c78a80d584c94ad176986186c8
   - enabled: 1
-    path: Assets/Scenes/Castle.unity
+    path: Assets/Scenes/NRoy_Hour14/Castle.unity
     guid: 59b019a487d2b4a4397e191956f1e333
   - enabled: 0
     path: Assets/Scenes/Closet.unity
@@ -24,9 +24,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Bed.unity
     guid: e2191ef0265e56049bdc40737de355fd
   - enabled: 1
-    path: Assets/Scenes/Lose.unity
+    path: Assets/Scenes/NRoy_Hour14/Lose.unity
     guid: 77fcfb6eed191394f9f13a327b65d248
   - enabled: 1
-    path: Assets/Scenes/Win.unity
+    path: Assets/Scenes/NRoy_Hour14/Win.unity
     guid: ea9b7c07ba6600344a339816832d8853
   m_configObjects: {}
