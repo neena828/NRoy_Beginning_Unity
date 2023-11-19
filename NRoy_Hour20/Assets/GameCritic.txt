@@ -1,0 +1,15 @@
+Is the game to easy or hard? Give 3 unique reasons why it is easy or hard.
+	This game is very simple to learn but hard to consistently get high scores. While I ran multiple tests on it, I got varying scores from 30 seconds to a minute and a half. I think is also due to the powerups spawning so close to the end so the player sometimes doesn't have enough time to reach it, especially because you need tp avoid obstacles
+as well. However, the obstacles more very slow so it's very easy to avoid them, and when necessary, there is also the 'ghost mode.'
+
+What 3 changes would you do to make it easier or harder?
+	To make it easier, I would push the spawn point of the powerups back and increase the player speed when moving side to side. To make it a bit harder, I would increase the length of the obstacles, so the player is more forced to use the 'ghost mode.'
+
+List three things that would give it a "wow" factor.
+	The first and most apparent feature is the lack of visual appeal. Very little lighting and the obstacles are too simple. Secondly, adding more rules or powerups to the game could create more variety and make the game feel less stale. Last of all, different obstacles could also create more variety and the user will have to adapt faster to continue. 
+
+What parts of the game are fun? 3 items
+	The most fun aspects are trying to compete against yourself, the satisfaction of getting powerups, and seeing the timer go up. Altough, there are not many fun aspects to the game because of it's very low replayability. 
+
+What parts of the game are tedious? 3 items
+	After a minute of gameplay, the game tends to get very repetitive and boring. In addition, as I mentioned earlier, there is no variety in the obstacles or powerups. Lastly the game has no end, its an infinite runner so the player doesn't have much motivation other than competing with oneself.
